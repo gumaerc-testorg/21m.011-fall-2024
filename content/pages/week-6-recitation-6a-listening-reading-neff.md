@@ -13,7 +13,7 @@ uid: b2a666d6-b393-4622-83db-ec7c8cce2961
 
 ### Antonio Vivaldi, "Autumn" from *The Four Seasons* (concerto or solo concerto) 
 
-Not typical for most concertos, this concerto has an accompanying poem, most likely written by Vivaldi. This text of the poem appears as a subtitle in this video: Recording performed on original instruments by the Early Music Ensemble Voices of Music. [\[Listen on YouTube\]](https://youtu.be/aryDMAP6oug?t=1243)
+Not typical for most concertos, this concerto has an accompanying poem, most likely written by Vivaldi. This text of the poem appears as a subtitle in this video: Recording performed on original instruments by the Early Music Ensemble Voices of Music. {{% resource_link "dfde98ca-00d4-491c-8107-52f557462a50" "\[Listen on YouTube\]" %}}
 
 IN YOUR DISCUSSION POST: Describe the musical attributes of each movement of this concerto. In other words, how can you differentiate one movement from the other two? Be sure to use musical terminology as precisely as possible. 
 
@@ -21,6 +21,6 @@ IN YOUR DISCUSSION POST: Describe the musical attributes of each movement of thi
 
 The solo group in this concerto grosso consists of a violin, recorder, oboe, and trumpet.
 
-The first movement of this concerto begins at 0:16 and ends at 5:12: Performed by Freiburger Barockorchester. [\[Listen on YouTube\]](https://youtu.be/3HSRIDtwsfM?si=fEjcooqN305z_9AM&t=15Links)
+The first movement of this concerto begins at 0:16 and ends at 5:12: Performed by Freiburger Barockorchester. {{% resource_link "7c07dd54-a174-40b9-9fd8-78ebc5110e0e" "\[Listen on YouTube\]" %}}
 
 IN YOUR DISCUSSION POST:  Comment on the interaction between the soloists (individually or as a group) and the larger ensemble. How does Bach highlight the soloists musically?

@@ -11,6 +11,6 @@ uid: 954a67b2-39e4-4f6c-8b99-29ff32b02dd9
 
 The second movement ends at 18:31
 
-Performed by the Orchestre de Paris, conducted by Eschenbach [\[Listen on YouTube\]](https://www.youtube.com/watch?v=G0a4FxKxfdw)
+Performed by the Orchestre de Paris, conducted by Eschenbach {{% resource_link "4c95d62d-1f88-4439-bb17-02ac6d8c7455" "\[Listen on YouTube\]" %}}
 
 IN YOUR DISCUSSION POST: Identify one passage in each movement that you found compelling--beautiful, intriguing, surprising, unsettling, etc. Then support your impression with a brief discussion of how at least two musical elements combined to make this "musical moment."

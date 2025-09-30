@@ -9,7 +9,7 @@ uid: 5a9408a4-754c-4ed6-9f52-7580146d6c28
 
 ### Josquin, “Mille regretz” (chanson or secular song)
 
-Performed by Profeti della Quinta. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=dkfVzCZ68_Q)
+Performed by Profeti della Quinta. {{% resource_link "610fa5a0-7d68-4ffe-9d59-c30acc5bebb2" "\[Listen on YouTube\]" %}}
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
@@ -51,10 +51,10 @@ IN YOUR DISCUSSION POST: Identify at least one place in this chanson where you h
 
 Now listen to an instrumental adaptation of this chanson. How does knowing the original version for four voices affect your impressions of this instrumental work?
 
-Luys de Narvaez, "La Canción del Emperador" (instrumental solo) arrangement of  Josquin's “Mille regretz” [\[Listen on YouTube\]](https://www.youtube.com/watch?v=YrTEvbQ8hY4)
+Luys de Narvaez, "La Canción del Emperador" (instrumental solo) arrangement of  Josquin's “Mille regretz” {{% resource_link "74281361-6856-4592-bc87-89e1d26deace" "\[Listen on YouTube\]" %}}
 
 ### Johannes Ockeghem, "L'autre d'antan" (chanson / secular song)
 
-Performed by Ensemble Gamut. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=Jkz4aIrADn4)
+Performed by Ensemble Gamut. {{% resource_link "d47cf003-ede6-494f-95f2-1f6d46bf7547" "\[Listen on YouTube\]" %}}
 
-Text and translations can be found [on the LiederNet Archive](https://www.lieder.net/lieder/get_text.html?TextId=92554).
+Text and translations can be found {{% resource_link "0be429c8-8cb3-4353-ad1b-04514e59a3a3" "on the LiederNet Archive" %}}.

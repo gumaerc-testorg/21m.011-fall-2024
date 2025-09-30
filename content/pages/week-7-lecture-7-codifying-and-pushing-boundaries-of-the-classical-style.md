@@ -9,7 +9,7 @@ uid: 03544483-30ca-4cd7-8f98-daf4f809d3bd
 
 ### Wolfgang Amadeus Mozart, Eine kleine Nachtmusik (serenade)
 
-Performed by the Gewandhaus Quartet [\[Listen on YouTube\]](https://www.youtube.com/watch?v=czBSj6_6rkE)
+Performed by the Gewandhaus Quartet {{% resource_link "be3281dd-60fb-4819-a570-264f001c2861" "\[Listen on YouTube\]" %}}
 
 ### Ludwig van Beethoven, String Quartet in Bb major, op. 18, no. 6 (string quartet)
 
@@ -19,7 +19,7 @@ String quartet - Chamber music ensemble comprised of 2 violins, 1 viola, and 1 c
 
 Scherzo - A fast movement, most often in triple meter. Composers sometimes replace a minuet in symphonies and string quartets with a scherzo. 
 
-From 14:26–17:29: Recording by the Alban Berg Quartett. [\[Listen on YouTube\]](https://youtu.be/77-UWEluzJE?t=865)
+From 14:26–17:29: Recording by the Alban Berg Quartett. {{% resource_link "ba8189cb-889b-4f4a-b942-0c80ec01a4a1" "\[Listen on YouTube\]" %}}
 
 Remember that musical elements include the following: 
 
@@ -33,4 +33,4 @@ Remember that musical elements include the following: 
 
 ## Wider Context
 
-OPTIONAL: For a wider context, see [Oxford Reference for timelines of world history by century](https://www.oxfordreference.com/browse?type_0=timelines).
+OPTIONAL: For a wider context, see {{% resource_link "4c443729-f58a-4e1b-a82a-47d205c501b9" "Oxford Reference for timelines of world history by century" %}}.

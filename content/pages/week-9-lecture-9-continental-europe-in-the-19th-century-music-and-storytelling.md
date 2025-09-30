@@ -9,9 +9,9 @@ uid: 3e1a768d-8b6f-41d6-9034-aa68fd7379f1
 
 ### Ludwig van Beethoven, Symphony No. 5 in C minor (symphony)
 
-Performance by Berliner Philharmoniker, Kirill Petrenko, conductor. [\[Listen on Digital Concert Hall\]](https://www-digitalconcerthall-com.libproxy.mit.edu/en/work/53856-3) *Note this link may require library access.*
+Performance by Berliner Philharmoniker, Kirill Petrenko, conductor. {{% resource_link "c86cd813-33c8-45f1-bab0-f9d36cd3c562" "\[Listen on Digital Concert Hall\]" %}} *Note this link may require library access.*
 
-Performance by Berliner Philharmoniker, Herbert von Karajan, conductor. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=9aDEq3u5huA&t=1s)
+Performance by Berliner Philharmoniker, Herbert von Karajan, conductor. {{% resource_link "48c9efb6-32bc-4bd1-9bd0-616d1784f8eb" "\[Listen on YouTube\]" %}}
 
 ### Hector Berlioz, *Symphonie fantastique* (program symphony)
 
@@ -19,7 +19,7 @@ Performance by Berliner Philharmoniker, Herbert von Karajan, conductor. [\[Liste
 
 **Program music:** Instrumental music for which the composer supplies an associated story or other nonmusical concept. 
 
-Starting at 43:03: Performed by the Orchestra of the University of Music FRANZ LISZT Weimar with Nicolás Pasquet, conductor. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=sK-D9IpmclQ&t=2583s)
+Starting at 43:03: Performed by the Orchestra of the University of Music FRANZ LISZT Weimar with Nicolás Pasquet, conductor. {{% resource_link "97c3a4a9-c8c8-4676-a4a0-47fb13b34866" "\[Listen on YouTube\]" %}}
 
 IN YOUR DISCUSSION POST: For ONE movement of the Beethoven, and the fifth movement of the Berlioz: Think about the musical element you hear as the most prominent, (pick only one!) and write a brief description (a sentence or two) that describes that element in the context of the piece. Next, consider how that element interacts with at least one other musical element and share your observations in a sentence or two. For example, you may hear the melody as the most prominent and could then discuss how the melody relates to the texture, the harmony, or the form. Be sure to identify which work you are describing. 
 
@@ -37,16 +37,16 @@ Remember that musical elements include the following: 
 
 **E.T.A. Hoffmann, “Beethoven’s Instrumental Music” from Kreisleriana No. 4 (1814)** 
 
-Locke, Arthur Ware, and E. T. A. Hoffmann. “[Beethoven’s Instrumental Music: Translated from E. T. A. Hoffmann’s ‘Kreisleriana’ with an Introductory Note.](https://www.jstor.org/stable/738009)” *The Musical Quarterly* 3, no. 1 (1917): 127–133.
+Locke, Arthur Ware, and E. T. A. Hoffmann. “{{% resource_link "9f55f8e4-1367-42bf-bbe0-4a4bc763bf92" "Beethoven’s Instrumental Music: Translated from E. T. A. Hoffmann’s ‘Kreisleriana’ with an Introductory Note." %}}” *The Musical Quarterly* 3, no. 1 (1917): 127–133.
 
 **Who is** **Beethoven?**
 
-Slonimsky, Nicolas, et al. "[Beethoven, Ludwig van](https://link.gale.com/apps/doc/CX3491801043/GVRL?u=camb27002&sid=bookmark-GVRL&xid=7d4028d8)." *Baker's Biographical Dictionary of Musicians*, edited by Nicolas Slonimsky and Laura Kuhn, vol. 1, Schirmer, 2001, pp. 260–271. Gale eBooks.
+Slonimsky, Nicolas, et al. "{{% resource_link "d0be5666-c066-4af1-b6e5-55765dd7bdfa" "Beethoven, Ludwig van" %}}." *Baker's Biographical Dictionary of Musicians*, edited by Nicolas Slonimsky and Laura Kuhn, vol. 1, Schirmer, 2001, pp. 260–271. Gale eBooks.
 
 **Who is Berlioz?**
 
-Slonimsky, Nicolas, et al. "[Berlioz, (Louis-) Hector.](https://link.gale.com/apps/doc/CX3491801190/GVRL?u=camb27002&sid=bookmark-GVRL&xid=a9aea254)" *Baker's Biographical Dictionary of Musicians*, edited by Nicolas Slonimsky and Laura Kuhn, vol. 1, Schirmer, 2001, pp. 314–317. Gale eBooks.
+Slonimsky, Nicolas, et al. "{{% resource_link "c3420f8a-f3e8-4180-be03-0ca1da44cb91" "Berlioz, (Louis-) Hector." %}}" *Baker's Biographical Dictionary of Musicians*, edited by Nicolas Slonimsky and Laura Kuhn, vol. 1, Schirmer, 2001, pp. 314–317. Gale eBooks.
 
 ## Wider Context
 
-OPTIONAL: For a wider context, see [Oxford Reference for timelines of world history by century](https://www.oxfordreference.com/browse?type_0=timelines).
+OPTIONAL: For a wider context, see {{% resource_link "4c443729-f58a-4e1b-a82a-47d205c501b9" "Oxford Reference for timelines of world history by century" %}}.
