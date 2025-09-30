@@ -9,7 +9,7 @@ uid: 3b1c5bd2-27d4-4054-b14f-d0a365f4c652
 
 ### Miguel de Fuenllana, “Paseábase el rey” (lute song)
 
-Performed by Pepe Becker, soprano and Stephen Pickett, Renaissance guitar [\[Listen on YouTube\]](https://www.youtube.com/watch?v=I7F3sfyDl5U)
+Performed by Pepe Becker, soprano and Stephen Pickett, Renaissance guitar {{% resource_link "c599acc9-5148-4655-b51f-50d1e15add92" "\[Listen on YouTube\]" %}}
 
 Here is the text and translation:
 
@@ -43,9 +43,9 @@ Alas! my Alhama! 
 
 Listen to these different performances.
 
-1. Performed by the Consort of Musike dir. Anthony Rooley, Andrew King, tenor. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=a56Llxj2oH0)           
+1. Performed by the Consort of Musike dir. Anthony Rooley, Andrew King, tenor. {{% resource_link "f35cd433-41ed-48ed-abb3-ef9447062d38" "\[Listen on YouTube\]" %}}           
      
-2. Performed by Anne Sofie von Otter and Jakob Lindberg. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=pA1SZOWUoSU)
+2. Performed by Anne Sofie von Otter and Jakob Lindberg. {{% resource_link "31ac744d-d20e-4e0e-98e3-d0bcda18ad7b" "\[Listen on YouTube\]" %}}
 
 Here is the text:
 
@@ -105,7 +105,7 @@ Come, come, come, for either I will love or admire thee.
 
 ### Giovanni Gabrieli, “In ecclesiis” (motet)
 
-Performed in collaboration by the Arp Schnitger Ensemble, Oltremontano, and the Gesualdo Consort. Listen to 0:00–3:37 only: [\[Listen on YouTube\]](https://www.youtube.com/embed/u3U47JuKxnw?end=217)
+Performed in collaboration by the Arp Schnitger Ensemble, Oltremontano, and the Gesualdo Consort. Listen to 0:00–3:37 only: {{% resource_link "8c653f75-ba25-4f0f-9c07-0d77559f2407" "\[Listen on YouTube\]" %}}
 
 Recall the definition of a motet from week 2:
 
@@ -201,4 +201,4 @@ Remember that musical elements include the following: 
 
 ## Wider Context
 
-OPTIONAL: For a wider context, see [Oxford Reference for timelines of world history by century](https://www.oxfordreference.com/browse?type_0=timelines)
+OPTIONAL: For a wider context, see {{% resource_link "4c443729-f58a-4e1b-a82a-47d205c501b9" "Oxford Reference for timelines of world history by century" %}}

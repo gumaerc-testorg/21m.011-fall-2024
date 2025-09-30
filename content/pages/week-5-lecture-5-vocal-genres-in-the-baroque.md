@@ -66,7 +66,7 @@ Alleluia.
 
 This is the opening of Psalm 70 and is used to begin many prayer services, such as a Vespers service, in the Roman Catholic Church. 
 
-Listen to 2:12–4:38 only: Performance conducted by John Eliot Gardiner. [\[Listen on YouTube\]](https://www.youtube.com/embed/0FXECUmqBxQ?start=132&end=278)
+Listen to 2:12–4:38 only: Performance conducted by John Eliot Gardiner. {{% resource_link "56d6c479-aaae-4d81-9c14-bfb044637654" "\[Listen on YouTube\]" %}}
 
 ### Henry Purcell, *Dido and Aeneas* (opera)
 
@@ -112,7 +112,7 @@ Remember me, but ah! forget my fate. 
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-Listen to this recording with Jessye Norman as soloist and using modern instruments: [\[Listen on YouTube\]](https://www.youtube.com/watch?v=vlVkS26KT5s)
+Listen to this recording with Jessye Norman as soloist and using modern instruments: {{% resource_link "6e0922d4-e84f-46f9-b363-5fd867e25267" "\[Listen on YouTube\]" %}}
 
 Here is the plot summary for context: {{% resource_link "981b8afd-a57b-44d7-8503-fc26329ba08e" "*Dido and Aeneas* Synopsis and Notes" %}}
 
@@ -130,9 +130,9 @@ V'adoro, pupille, saette d'amore, le vostre faville son grate nel sen. Pi
 Sweet eyes, darts of love, I adore you. Your sparks are welcome guests in my breast. My sorrowful heart desires you to be merciful, for its beloved calls out unceasingly for you.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-Listen here: *Giulio Cesare* [\[MetOpera Streaming on Demand\]](https://ondemand.metopera.org/performance/detail/758e7907-8358-50a8-9769-1f56ef38cffd)
+Listen here: *Giulio Cesare* {{% resource_link "57e70fa6-7d70-4e85-90e7-0513547a16bc" "\[MetOpera Streaming on Demand\]" %}}
 
-Here is the plot summary for context, focus on Act II: [*Giulio Cesare* Synopsis - Met Opera](https://www.metopera.org/user-information/synopses-archive/giulio-cesare)
+Here is the plot summary for context, focus on Act II: {{% resource_link "2a0f11fd-4a4a-46b6-afec-3970dec5327a" "*Giulio Cesare* Synopsis - Met Opera" %}}
 
 IN YOUR DISCUSSION POST: For the Monteverdi and EITHER the Purcell OR Handel: Think about the musical element you hear as the most prominent (pick only one!) and write a brief description (a sentence or two) that describes that element in the context of the piece. 
 
@@ -148,16 +148,16 @@ Remember that musical elements include the following: 
 
 **Who is Monteverdi?**
 
-[Monteverdi, Claudio - Oxford Reference](https://www.oxfordreference.com/display/10.1093/acref/9780198183327.001.0001/acref-9780198183327-e-2100?rskey=sRnRyV&result=1)
+{{% resource_link "b0ba76b9-851a-4b13-afcc-fdfcac440781" "Monteverdi, Claudio - Oxford Reference" %}}
 
 **Who is Purcell?**
 
-[Purcell, Henry - Oxford Reference](https://www.oxfordreference.com/display/10.1093/acref/9780199578108.001.0001/acref-9780199578108-e-7320?rskey=8EI90X&result=2)
+{{% resource_link "83b013e7-2adb-47da-a54b-9319d91b9af7" "Purcell, Henry - Oxford Reference" %}}
 
 **Who is Handel?**
 
-[Handel, George Frideric - Oxford Reference](https://www.oxfordreference.com/display/10.1093/acref/9780199579037.001.0001/acref-9780199579037-e-3115?rskey=KFT7ET&result=1)
+{{% resource_link "6327b8eb-306f-46a8-8345-3d294985b46c" "Handel, George Frideric - Oxford Reference" %}}
 
 ## Wider Context
 
-OPTIONAL: See Oxford Reference for [timelines of world history by century](https://www.oxfordreference.com/browse?type_0=timelines)
+OPTIONAL: See Oxford Reference for {{% resource_link "4c443729-f58a-4e1b-a82a-47d205c501b9" "timelines of world history by century" %}}

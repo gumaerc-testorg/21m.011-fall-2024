@@ -19,16 +19,16 @@ Please note: As with any performance, all the performances you will hear are int
 
 ### *Renaissance*
 
-Dufay, “Se la face ay pale” (French chanson) [\[Listen on YouTube\]](https://www.youtube.com/watch?v=_SLRDmeP1gMLinks) 
+Dufay, “Se la face ay pale” (French chanson) {{% resource_link "dde8b7e8-b2c1-4294-923a-1ab06aae8f7d" "\[Listen on YouTube\]" %}} 
 
-[Text and translation](https://www.lieder.net/lieder/get_text.html?TextId=89583)
+{{% resource_link "b49ceb68-d3cd-4f46-9fc0-b357e875af71" "Text and translation" %}}
 
-Morley, “Fire, fire!” (madrigal) [\[Listen on YouTube\]](https://www.youtube.com/watch?v=x2nRlVelF1ULinks)
+Morley, “Fire, fire!” (madrigal) {{% resource_link "5fc5002c-d236-4df4-9264-cbbe1e3aea0c" "\[Listen on YouTube\]" %}}
 
-[Text](https://www.lieder.net/lieder/get_text.html?TextId=57475)
+{{% resource_link "5622be21-30df-417f-b7d0-87049d8cfb3f" "Text" %}}
 
 ### *Early Baroque*
 
-Monteverdi, “Pur ti miro” from *The Coronation of Poppea* (opera duet) [\[Listen on YouTube\]](https://www.youtube.com/watch?v=_isL0E-4TsQLinks)
+Monteverdi, “Pur ti miro” from *The Coronation of Poppea* (opera duet) {{% resource_link "c8f212d1-a472-4792-b3df-65e22d0370bd" "\[Listen on YouTube\]" %}}
 
-[Text and translation](https://www.lieder.net/lieder/get_text.html?TextId=132441)
+{{% resource_link "d8e605b3-05a5-4ff2-bb84-a0ee2514c594" "Text and translation" %}}

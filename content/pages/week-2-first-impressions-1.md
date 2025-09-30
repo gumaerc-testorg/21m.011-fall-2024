@@ -17,11 +17,11 @@ Please note: As with any performance, all the performances you will hear are int
 
 ## Selected Works from the Middle Ages
 
-Hildegard, “O Frondens Virga” (chant). Performed by Chanticleer. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=QGXXrUvNzec)
+Hildegard, “O Frondens Virga” (chant). Performed by Chanticleer. {{% resource_link "ba43096a-2ab1-49a9-bc80-c9be72a3debd" "\[Listen on YouTube\]" %}}
 
 Azalais (de Porcairagues), “Ar em al freg temps” (troubadour song)
 
 Please choose the performance that captures your imagination in some way (positive or less so):
 
-- With English translation: Performed by Cantos Cruzados. [\[Listen on YouTube\]](https://www.youtube.com/watch?app=desktop&v=olwnqKf0LGM)
-- No translation, but a live performance: Performed by the Idrîsî Ensemble. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=ixdXKs-7am0)
+- With English translation: Performed by Cantos Cruzados. {{% resource_link "221f7738-9e13-4cd8-ae19-61869425c825" "\[Listen on YouTube\]" %}}
+- No translation, but a live performance: Performed by the Idrîsî Ensemble. {{% resource_link "c99163f5-a7e4-4de4-ba9b-75d4e64da588" "\[Listen on YouTube\]" %}}
