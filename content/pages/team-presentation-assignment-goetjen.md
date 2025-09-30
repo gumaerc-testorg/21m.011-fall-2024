@@ -15,7 +15,7 @@ Please construct a presentation that includes the following information. The pre
 
 Cite specific passages in the music to support your choice of adjectives. Use specific musical terms to describe these passages (the baseball card template may help you in this case). This should be based only on what you can hear in listening to the piece. You should not refer to sheet music or notated score and only use information contained within the sources listed below.
 
-For this assignment, I will provide each group with a short reading (below) on the assigned piece. If you would like to research additional information about the composer, you should use [Oxford Reference](https://www-oxfordreference-com.libproxy.mit.edu/) or [Grove Music Online](https://www-oxfordmusiconline-com.libproxy.mit.edu/) as sources. Please do not do any other research except through these sources. While Wikipedia may be a useful source for basic factual information about your piece, do not rely on it for musical analysis, as it may contain either errors or discussion of the music which is at a level beyond this class.
+For this assignment, I will provide each group with a short reading (below) on the assigned piece. If you would like to research additional information about the composer, you should use {{% resource_link "c889ba26-3018-46cc-a032-e456040cac39" "Oxford Reference" %}} or {{% resource_link "5dc16e65-721f-4d60-b267-a2db01943bcf" "Grove Music Online" %}} as sources. Please do not do any other research except through these sources. While Wikipedia may be a useful source for basic factual information about your piece, do not rely on it for musical analysis, as it may contain either errors or discussion of the music which is at a level beyond this class.
 
 Please see below for the assigned pieces. You will have the opportunity to work in your groups during class time. 
 
@@ -55,46 +55,46 @@ Group 1: Karlheinz Stockhausen, *Gesang der Jünglinge* (1955–56)
 
             Forces: boy soprano, electronic tape
 
-            [Reading](https://www.laphil.com/musicdb/pieces/372/gesang-der-junglinge-song-of-the-youths)
+            {{% resource_link "1ce7b609-7937-4d73-a5a4-378b5dd7fa21" "Reading" %}}
 
-            [Recording \[Listen on YouTube\]](https://www.youtube.com/watch?v=RpSO3UHKy_g)
+            {{% resource_link "589ef965-68ba-4c83-a32c-1e3fe131cad5" "Recording \[Listen on YouTube\]" %}}
 
 Group 2: Györgi Ligeti, *Lux Aeterna* (1966)
 
             Forces: large choir
 
-            [Reading](https://thelistenersclub.com/2019/01/18/gyorgy-ligetis-lux-aeterna-the-ethereal-land-of-micropolyphony/#:~:text=Lux%20Aeterna%20for%20sixteen%2Dpart,perceptions%20of%20time%20and%20space)
+            {{% resource_link "6d0bb770-05bb-4560-a9ba-a0778ce39406" "Reading" %}}
 
-            [Recording \[Listen on YouTube\]](https://www.youtube.com/watch?v=-iVYu5lyX5M)
+            {{% resource_link "c26204ca-8eab-4e2b-8981-00112eb369d1" "Recording \[Listen on YouTube\]" %}}
 
 Group 3: Arvo Pärt, *Spiegel im Spiegel* (1978)
 
             Forces: piano and violin (sometimes viola or cello instead of violin)
 
-            [Reading](https://www.arvopart.ee/en/arvo-part/work/544)
+            {{% resource_link "8475a773-0f1e-4b30-baa1-9a08d78c606c" "Reading" %}}
 
-            [Recording \[Listen on YouTube\]](https://www.youtube.com/watch?v=TJ6Mzvh3XCc)
+            {{% resource_link "2ad64ea2-5ad2-42ee-9a23-9a0ba0a4df66" "Recording \[Listen on YouTube\]" %}}
 
 Group 4: Unsuk Chin, Piano Concerto, Movement 2 (1996)
 
             Forces: solo piano and orchestra
 
-            [Reading](https://www.boosey.com/cr/music/Unsuk-Chin-Piano-Concerto/247)
+            {{% resource_link "b9ee7104-559a-4ca0-b6f4-072bd236d12c" "Reading" %}}
 
-            [Recording \[Listen on YouTube\]](https://www.youtube.com/watch?v=DaqYpnm6AkU)
+            {{% resource_link "bd201aa6-2b82-43a5-bf7f-a97391c8e609" "Recording \[Listen on YouTube\]" %}}
 
 Group 5: John Adams, *Doctor Atomic*, Aria, “Batter my heart, three-personed God” (2005)
 
             Forces: orchestra, chorus, vocal soloists
 
-            [Reading](https://www.metopera.org/globalassets/user-information/nightly-opera-streams/week-15/playbills/nov-8-doctor-atomic.pdf)
+            {{% resource_link "fdf67b15-a4df-42c9-a046-8fd514566649" "Reading" %}}
 
-            [Recording (track 20- 3:30 through end of track 21)](http://metopera.org.libproxy.mit.edu/season/on-demand/opera/?upc=811357012130)
+            {{% resource_link "21f49f80-4fb2-4d73-8527-adcb9eff07c9" "Recording (track 20- 3:30 through end of track 21)" %}}
 
 Group 6: Kaija Saariaho- *L’Amour de Loin*, Act 2: Deuxième tableaux (2000)
 
             Forces: orchestra, chorus, vocal soloists
 
-            [Reading](https://www.metopera.org/globalassets/user-information/nightly-opera-streams/week-8/playbills/121016-lamour.pdf)
+            {{% resource_link "dd3ea143-aad6-40d5-9e69-8b5cb4492109" "Reading" %}}
 
-            [Recording (all of track 9 only)](http://metopera.org.libproxy.mit.edu/season/on-demand/opera/?upc=811357018828)
+            {{% resource_link "a4fe24d5-ad80-425e-a109-42e011354587" "Recording (all of track 9 only)" %}}
