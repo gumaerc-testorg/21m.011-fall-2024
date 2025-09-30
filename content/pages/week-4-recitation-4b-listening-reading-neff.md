@@ -13,7 +13,7 @@ uid: c7f83c75-4ee9-4f3c-a31b-e7e87c1c339e
 
 ### Cipriano de Rore, "Mia Benigna Fortuna" (Italian madrigal)
 
-Performed by Profeti della Quinta. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=Hi6H8FtK68YLinks)
+Performed by Profeti della Quinta. {{% resource_link "726d310e-a094-41df-bc23-d8fb86da787b" "\[Listen on YouTube\]" %}}
 
 The text and translation are given as subtitles in the video.
 
@@ -23,8 +23,8 @@ Madrigals became very popular in Italy and elsewhere. In England, the texts of I
 
 This work is a four-part version of the lute song we studied in Lecture 3. Dowland wrote the music so that it could be performed by a four-part chorus or by a soloist with lute accompaniment.
 
-- Soloist with instruments version performed by The Consort of Musicke, Andrew King, tenor [\[Listen on YouTube\]](https://www.youtube.com/watch?v=a56Llxj2oH0)
-- Four-part voice version directed by Robert Reimer [\[Listen on YouTube\]](https://www.youtube.com/watch?v=Gmvxz5kfxOk)
+- Soloist with instruments version performed by The Consort of Musicke, Andrew King, tenor {{% resource_link "f35cd433-41ed-48ed-abb3-ef9447062d38" "\[Listen on YouTube\]" %}}
+- Four-part voice version directed by Robert Reimer {{% resource_link "775bd945-a46c-47f8-8245-323ba8627fe8" "\[Listen on YouTube\]" %}}
 
 Here is the text:
 

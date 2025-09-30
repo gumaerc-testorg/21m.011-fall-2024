@@ -22,9 +22,9 @@ This presentation is 3% of the final grade.
 
 The works/movements for presentations are:
 
-**1\. John Cage (1912–1992)** , [Sonata V \[Listen on YouTube\]](https://www.youtube.com/watch?v=WXnmPD1sgd8) from *Sonatas and Interludes for Prepared Piano*, completed in 1948. Here is a link to Cage's thoughts on prepared piano (a piano which is altered by the insertion of objects into the strings): [Prepared piano](https://johncage.org/prepared_piano_essay.html)
+**1\. John Cage (1912–1992)** , {{% resource_link "e3324d98-4621-456d-b5df-61bbb0a3968b" "Sonata V \[Listen on YouTube\]" %}} from *Sonatas and Interludes for Prepared Piano*, completed in 1948. Here is a link to Cage's thoughts on prepared piano (a piano which is altered by the insertion of objects into the strings): {{% resource_link "6e122d35-20af-40db-8917-05d36aa68819" "Prepared piano" %}}
 
-**2\. John Adams (1947–)**, ["Batter my Heart" \[Listen on YouTube\]](https://www.youtube.com/watch?v=AlUHKHLk_VU) from the opera *Doctor* *Atomic*, 2005. [Synopsis](https://www.metopera.org//user-information/synopses-archive/doctor-atomic?INSTITUTION_LOGOUT=true) of the opera. Here is the text by John Donne (1572–1631):
+**2\. John Adams (1947–)**, {{% resource_link "e474a209-482d-47ba-99b8-d1fce6ac2a53" "\"Batter my Heart\" \[Listen on YouTube\]" %}} from the opera *Doctor* *Atomic*, 2005. {{% resource_link "80839bf6-477b-4d12-be7e-23875613248b" "Synopsis" %}} of the opera. Here is the text by John Donne (1572–1631):
 
 > Batter my heart, three-person'd God, for you
 > 
@@ -54,24 +54,24 @@ The works/movements for presentations are:
 > 
 > Nor ever chaste, except you ravish me.
 
-**3\. Olivier Messiaen (1908–1992)**, [Quartet for the End of Time, Vocalise \[Listen on YouTube\]](https://youtu.be/e2hbwINj7dE?si=YD5SSzPy4OsX6IHz&t=230)
+**3\. Olivier Messiaen (1908–1992)**, {{% resource_link "b6187e51-9121-4077-be1d-c814b0147043" "Quartet for the End of Time, Vocalise \[Listen on YouTube\]" %}}
 
 This movement ends at 9:30.
 
-[More information about this work](https://www.carnegiehall.org/Explore/Articles/2021/03/11/Five-Things-to-Know-About-Messiaens-Quartet-for-the-End-of-Time)
+{{% resource_link "64d77ffe-e4ba-4389-9b7e-ff0028de7417" "More information about this work" %}}
 
-**4\. Steve Reich (1936–)**, ["Section IIIB" \[Listen on YouTube\]](https://youtu.be/PMsYuFrKUQ8?si=nl6BUYd2vm66aKxs&t=976) from *Music for 18 Musicians*
+**4\. Steve Reich (1936–)**, {{% resource_link "eb927ef1-5249-4e4a-9d26-63cef774971b" "\"Section IIIB\" \[Listen on YouTube\]" %}} from *Music for 18 Musicians*
 
 Please focus on the excerpt from 16:16–20:28
 
-[More information about this work](https://stevereich.com/composition/music-for-18-musiciansLinks)
+{{% resource_link "f88566cb-196a-45e0-82a6-56d6e930d1fe" "More information about this work" %}}
 
-**5\. William Grant Still (1895–1978)**, "Gamin," [Suite for Violin and Piano \[Listen on YouTube\]](https://www.youtube.com/watch?v=37iDfyPnzQs), III
+**5\. William Grant Still (1895–1978)**, "Gamin," {{% resource_link "7667c13a-52a6-4c1c-924b-99e9e4476a54" "Suite for Violin and Piano \[Listen on YouTube\]" %}}, III
 
-[More information about the inspiration for this work](https://interlude.hk/musicians-and-artists-william-grant-still-and-sculpture/)
+{{% resource_link "60f910d9-5e90-4921-ba90-4d6d7c8f9411" "More information about the inspiration for this work" %}}
 
-**6\. Ruth Crawford (Seeger) (1874–1954)**, closing from [*Music for Small Orchestra* \[Listen on YouTube\]](https://youtu.be/XFJMnGrKSB8?si=xq3SQBEL237ByGRr&t=398)
+**6\. Ruth Crawford (Seeger) (1874–1954)**, closing from {{% resource_link "4df2637c-178b-475e-b912-37125b6067d7" "*Music for Small Orchestra* \[Listen on YouTube\]" %}}
 
 This is the end of the piece.
 
-[More information about this work](https://content.thespco.org/music/concert-library/composition/music-for-small-orchestra-ruth-crawford-seeger)
+{{% resource_link "41abf0f2-d91e-4bdd-ae61-966d47555d26" "More information about this work" %}}

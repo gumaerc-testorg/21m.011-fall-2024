@@ -9,7 +9,7 @@ uid: 220381df-7f59-4a09-aed1-bc1090bb0bea
 
 ### Psalm 24. *La terre appartient a l'Eternel*
 
-Performed by Yan Pascal Tortelier, the BBC Philharmonic, Neil MacKenzie, and the City of Birmingham Symphony Chorus. [\[Listen on YouTube\]](https://www.youtube.com/watch?v=qZsJDp3ahZQ)
+Performed by Yan Pascal Tortelier, the BBC Philharmonic, Neil MacKenzie, and the City of Birmingham Symphony Chorus. {{% resource_link "2633d561-2f23-449b-8b73-1dffacb08c70" "\[Listen on YouTube\]" %}}
 
 This is Psalm 24 by Lili Boulanger. It is written for chorus and orchestra (organ, brass (4 horns, 3 trumpets, 4 trombones, 1 tuba), timpani, harp)
 
@@ -67,4 +67,4 @@ Here is the text and translation:
 
 The second movement starts at 17:25 and ends at 22:54.
 
-Performed by the Frankfurt Radio Symphony with David Afkham. [\[Listen on YouTube\]](https://youtu.be/cg0M4LzEITQ?si=J2md2SBNt3XAuRWT&t=1045)
+Performed by the Frankfurt Radio Symphony with David Afkham. {{% resource_link "a90b98dc-7266-4f6b-8165-c92833e3235d" "\[Listen on YouTube\]" %}}

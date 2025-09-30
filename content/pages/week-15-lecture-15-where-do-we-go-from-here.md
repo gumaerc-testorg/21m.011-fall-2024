@@ -83,20 +83,20 @@ Robert Schumann, *Arabesque* in C major, op. 18, Rachel Y Zhu, piano
 
 ### Videos Links
 
-- [Dies irae](https://www.youtube.com/watch?v=dsn9LWh230k)
-- Crumb, Black Angels, [movement 5](https://youtu.be/etHtCVeU4-I?si=CJ4kz7JmfwW4CIm6&t=316)
-- [Dies irae in the movies](https://www.youtube.com/watch?v=0hL1m4hGBVY&t=38s)
-- [Dido’s Lament](https://www.youtube.com/watch?v=uGQq3HcOB0Y)
-- [Theo Bleckmann’s arrangement](https://www.youtube.com/watch?v=OZT3sKDVVLs) of Dido’s Lament
-- “[Spring](https://www.youtube.com/watch?v=3LiztfE1X7E)” Vivaldi’s Four Seasons
-- Max Richter, [Vivaldi Reimagined](https://www.youtube.com/watch?v=Ebm69gW9UlI)
-- Vivaldi Reimagined with [video](https://www.youtube.com/watch?v=w59suJUvGfc)
+- {{% resource_link "b839338a-4c50-4217-abdc-157258b11cee" "Dies irae" %}}
+- Crumb, Black Angels, {{% resource_link "009face9-fae7-4c2c-b1c4-a96ae1b7c6c3" "movement 5" %}}
+- {{% resource_link "fa104cf0-7874-46a5-bcd0-f8f114f55851" "Dies irae in the movies" %}}
+- {{% resource_link "7ab0290b-98f3-4a90-b204-fe016abbea81" "Dido’s Lament" %}}
+- {{% resource_link "c891c84f-fe1c-4175-a244-55af9e49e78f" "Theo Bleckmann’s arrangement" %}} of Dido’s Lament
+- “{{% resource_link "fb5eff0f-fd10-47f0-8443-316b60eb0049" "Spring" %}}” Vivaldi’s Four Seasons
+- Max Richter, {{% resource_link "94dd48d8-701a-4c93-aa74-dc2dab79aecb" "Vivaldi Reimagined" %}}
+- Vivaldi Reimagined with {{% resource_link "0134d3e7-003e-4a17-8fbe-c18aab80d15e" "video" %}}
 - Vivaldi Reimagined on original instruments
-- Haydn, [Symphony 45](https://www.youtube.com/watch?v=OpD9ofCm6Ak) “Farewell”
-- Beethoven, 9<sup>th</sup>, [Osaka](https://www.youtube.com/watch?v=VjQNV9u1hzI)
-- Tchaikovsky, [The Nutcracker Ballet](https://www.youtube.com/watch?v=kXRMT_2F-WE)
-- Ellington, [Nutcracker Suite](https://www.youtube.com/watch?v=xslI86VqX78)
-- [Nahre Sol](https://www.youtube.com/c/NahreSol)
-- “[Old Atonal Music](https://www.youtube.com/watch?v=gzodB0Sp6ZI)” Merle Hazard
-- [Wendy Carlos](https://www.youtube.com/watch?v=Z3cab5IcCy8) on Moog synthesizer
-- [10 Classical pieces in Video games](https://www.houstonpublicmedia.org/articles/arts-culture/2015/06/19/61070/10-classical-music-pieces-in-video-games/)
+- Haydn, {{% resource_link "71a75a41-dc33-4be9-91a5-308e4b50c693" "Symphony 45" %}} “Farewell”
+- Beethoven, 9<sup>th</sup>, {{% resource_link "160640a8-02c1-4920-ab09-cea76d1a5627" "Osaka" %}}
+- Tchaikovsky, {{% resource_link "a210aa53-32f8-4b65-8748-2d3aa7b805f8" "The Nutcracker Ballet" %}}
+- Ellington, {{% resource_link "d83b378d-ee1d-4569-a248-3cf47c440548" "Nutcracker Suite" %}}
+- {{% resource_link "5f94d740-36a6-4c39-8606-88724a391cad" "Nahre Sol" %}}
+- “{{% resource_link "4b344f7e-7264-44eb-a7ee-e24ff8a03af5" "Old Atonal Music" %}}” Merle Hazard
+- {{% resource_link "a4feddba-fb6d-4d51-8cbf-79707dc0b8c7" "Wendy Carlos" %}} on Moog synthesizer
+- {{% resource_link "178b6c74-bdf7-46ae-a05a-165acd991554" "10 Classical pieces in Video games" %}}
